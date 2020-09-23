@@ -10,6 +10,6 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
 
 ##Education
 
-- Ph.d in Computer science,University of London **2016**
-- Masters in Computer science **2014**
-- Bachelors in Computer science **2012**
+-  Ph.d in Computer science,University of London **2016**
+-  Masters in Computer science **2014**
+-  Bachelors in Computer science **2012**
