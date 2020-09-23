@@ -1,4 +1,4 @@
-![MY IMAGE].(https://www.kindpng.com/picc/m/136-1369892_avatar-people-person-business-user-man-character-avatar.png)
+![MY IMAGE](https://www.kindpng.com/picc/m/136-1369892_avatar-people-person-business-user-man-character-avatar.png)
 # Rohan #
 
 ***Adress:**Garden officers colony,Parsa citi,1801*
