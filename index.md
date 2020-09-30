@@ -14,3 +14,56 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
 -  Ph.d in Computer science,University of London **2016**
 -  Masters in Computer science **2014**
 -  Bachelors in Computer science **2012**
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>ROHAN PATEL</h1>
+    <h2>ROHAN PATEL</h2>
+    <h3>ROHAN PATEL</h3>
+    <h4>ROHAN PATEL</h4>
+    <h5>ROHAN PATEL</h5>
+    <h6>ROHAN PATEL</h6>
+    <p>Lorem ipsum dolor <del>sit</del>.<ins>down</ins> amet consectetur  <strong><i>Corona</i></strong> adipisicing elit. Ad sapiente beatae consequuntur doloribus numquam laboriosam praesentium, dignissimos id sequi pariatur distinctio voluptatibus quo laborum, ab quae? Ab veniam ullam molestias.</p>
+
+
+<p>a <sup>2</sup> +2ab+b <sup>2</sup> </p>
+<p>H <sub>2</sub>0</p>
+
+<h3>Unordered list</h3>
+
+<ul style="list-style-type: georgian;">
+
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Kiwi</li>
+    <li>Mango</li>
+</ul>
+
+<h3>Ordered list</h3>
+<ol style="list-style-type: upper-roman;">
+    <li>html</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>MYSQL</li>
+    <li>Php</li>
+
+
+</ol>
+
+<dl>
+<dt>PUBG MOBILE</dt>
+<dd>The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile. Play free anywhere, anytime. PUBG MOBILE delivers the most intense ...</dd>
+
+</dl>
+
+</body>
+</html>
