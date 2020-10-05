@@ -109,7 +109,8 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
 
 
 
-
+<img src="3491-Apple-iPhone-11-Pro-Max-Qmart-2-0-1-550x550.jpg"width="200" alt="">  
+   <img src="apple-iphone-xi-pakistan-priceoye-rnsnj.jpg"width="200" alt="">
 
 
 
