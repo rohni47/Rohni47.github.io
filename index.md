@@ -66,4 +66,104 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
 </dl>
 
 </body>
+</html>\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <a href="../../index.html">Go Back</a>
+    <table border="1">
+        <thead>
+            <th>Name</th>
+            <th>Class</th>
+            <th>Place</th>
+        </thead>
+<tbody>
+    <tr>
+
+        <td>Rohan</td>
+        <td rowspan="3">12</td>
+        <td>Pakistan</td>
+    
+    </tr>
+    <td>Mikle</td>
+    
+    <td>Canada</td>
+
+</tr>
+<td>Porter</td>
+
+<td>Italy</td>
+
+<tr>
+    <td colspan="3">Total Marks 900</td>
+</tr>
+
+
+</tbody>
+    </table>
+    
+</body>
 </html>
