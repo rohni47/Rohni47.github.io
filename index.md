@@ -228,7 +228,6 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
     <style>
     * {
         border: 1px solid black;
-        height: 50px;
         }
         #navbar{
             background-color: burlywood
@@ -264,9 +263,24 @@ background-color: darkred
 
 <body>
     <div id="navbar">
-        <div class="left_side_nav"></div>
+        <div class="left_side_nav">
+            <ul>
+                <li>BEST Seller</li>
+                <li>NEW ARIVALS</li>
+                <li>ABOUT</li>
+                <li>STORES</li>
+                <li>FAQ'S</li>
+</ul>
+                 
+        </div>
         <div class="logo"></div>
-        <div class="right_side_nav"></div>
+        <div class="right_side_nav">
+            <ul>
+                <li>CHECKOUT</li>
+                <li>CART</li>
+                <li>SEARCH</li>
+            </ul>
+        </div>
     </div>
 
     <div id="container">
@@ -278,7 +292,7 @@ background-color: darkred
 <div>
 
 </div>
-<div class="copy">
+<div class="copy">aa
     
 </div>
     </div>
