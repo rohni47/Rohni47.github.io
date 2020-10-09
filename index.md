@@ -190,6 +190,34 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -202,6 +230,34 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
         border: 1px solid black;
         height: 50px;
         }
+        #navbar{
+            background-color: burlywood
+        }
+        .left_side_nav{
+            background-color: aquamarine
+        }
+        .logo{
+            background-color: aqua
+        }
+        .right_side_nav{
+background-color: darkred
+        }
+        #container{
+            background-color: darkslateblue
+        }
+        .left_menu{
+            background-color: thistle
+        }
+        .main_content{
+            background-color: tomato
+        }
+        .site_ads{
+            background-color: yellow
+        }
+        #footer{background-color: darkred
+    }
+    .copy{background-color: violeta
+    }
     </style>
 </head>
 
@@ -228,5 +284,7 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
     </div>
 </body>
 </html>
+
+
 
 
