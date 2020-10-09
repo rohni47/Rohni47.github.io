@@ -168,3 +168,65 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
     
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    * {
+        border: 1px solid black;
+        height: 50px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <div id="navbar">
+        <div class="left_side_nav"></div>
+        <div class="logo"></div>
+        <div class="right_side_nav"></div>
+    </div>
+
+    <div id="container">
+    <div class="left_menu"></div>
+    <div class="main_content"></div>
+    <div class="site_ads"></div>
+    </div>
+    <div id="footer">
+<div>
+
+</div>
+<div class="copy">
+    
+</div>
+    </div>
+</body>
+</html>
+
+
