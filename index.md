@@ -302,3 +302,140 @@ background-color: darkred
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    
+        
+        
+        header{
+            background-color: burlywood
+        }
+        .left_side_nav{
+            background-color:yellowgreen
+        }
+        .logo{
+            background-color:silver
+        }
+        .right_side_nav{
+background-color: darkred
+        }
+        #container{
+            background-color: darkslateblue
+        }
+        .left_menu{
+            background-color: thistle;
+            margin: 20px;
+            padding: 20px;
+            border-width: 12px 5px 12px 5px;
+            border-style: double dotted double dotted;
+            border-color: purple palevioletred purple palevioletred
+    
+          
+        }
+        .main_content{
+            background-color: rgb(99, 59, 52)
+        }
+        .site_ads{
+            background-color: yellow
+        }
+        footer{background-color: darkred
+    }
+    .copy{background-color: violeta
+    }
+    </style>
+</head>
+
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html"><img width="100"
+                src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MX0H2?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1567304952459">
+                </a>
+        </div>
+        <div class="left_side_nav">
+           
+            <ul>
+                <h1>BUCK MANSON</h1>
+
+                <li>BEST Seller</li>
+                <li>NEW ARIVALS</li>
+                <li>ABOUT</li>
+                <li>STORES</li>
+                <li>FAQ'S</li>
+</ul>
+                 
+        </div>
+        
+        <div class="right_side_nav">
+            <ul>
+                <li>CHECKOUT</li>
+                <li>CART</li>
+                <li>SEARCH</li>
+            </ul>
+        </div>
+    </div>
+
+    <section>
+    <div class="left_menu">
+    <h1>LEFT MENU</h1>
+
+    </div>
+    <div class="main_content">
+        <h1>MAIN CONTENT</h1>
+    </div>
+    
+    <div class="site_ads">
+        <h1>ADS</h1>
+    </div>
+    
+    </section>
+    
+    <footer>
+<div style="background-color: aquamarine">
+    <p>misc</p>
+</div>
+<div class="copy">
+    <p>&copy;Rohan 2020</p>
+</div>
+    
+    </footer>
+</body>
+</html>
+
+
+
+
