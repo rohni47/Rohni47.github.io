@@ -438,6 +438,20 @@ background-color: darkred
 
 
 
+style.html
+*{
+    background-color:lightgrey;
+    margin:0;
+    padding:0;
+}
+.left_side_nav { 
+    margin: 20px
+    padding: 20px
+    
+    }
+section .left_side_nav h1:nth-child(1){ color: darkred}
+
+
 
 
 
