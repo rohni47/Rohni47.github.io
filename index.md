@@ -214,7 +214,7 @@ Hard-working (strong trait) retail associate, skilled in POS tech and inventory 
 
 
 
-
+daraz.html
 
 
 
@@ -302,6 +302,7 @@ background-color: darkred
 
 
 
+next one is use full
 
 
 
@@ -324,8 +325,7 @@ background-color: darkred
 
 
 
-
-
+daraz.html
 
 
 <!DOCTYPE html>
@@ -435,6 +435,62 @@ background-color: darkred
     </footer>
 </body>
 </html>
+
+
+
+
+
+
+
+new file grid.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <style>
+    *{
+      border:1px black;
+      box-sizing: border-box;
+    }
+    
+    .col1,.col2,.col3{
+        width: 33.33%;
+        padding: 2px;
+        float: left;
+        display: inline;
+        text-align: center;
+    }
+    img{
+        width: 100%;
+        height: 33.33vh;
+    }
+    </style>
+
+</head>
+<body>
+    <div class="row1">
+        <div class="col1"> <img src="https://cdn.mos.cms.futurecdn.net/PLFb3FypP7pq7CrGVfMx5B-320-80.png " alt="" ></div>
+        <div class="col2"> <img src=" https://fdn.gsmarena.com/imgroot/news/20/09/iphone-12-no-120hz/-1200/gsmarena_000.jpg " alt="" ></div>
+        <div class="col3"> <img src="https://cdn.mos.cms.futurecdn.net/eoNhnX5u2RnuRAT6tRJNcP-1200-80.jpeg " alt="" ></div>
+    </div>
+    <div class="row2">
+        <div class="col1"> <img src="https://m-cdn.phonearena.com/images/article/126865-two_1200/Here-is-how-iPhone-12-camera-will-allegedly-outdo-iPhone-11-without-upping-megapixels.jpg " alt="" ></div>
+        <div class="col2"> <img src=" https://m-cdn.phonearena.com/images/article/125258-two_1200/Apple-certifies-a-ton-of-new-iPhone-12-models.jpg" alt="" ></div>
+        <div class="col3"> <img src="https://www.nextnewssource.com/wp-content/uploads/2020/09/iPhone-12-render-450x270.png " alt="" ></div>
+    </div>
+    <div class="row3">
+        <div class="col1"> <img src=" https://img.phonandroid.com/2020/06/gamme-iphone-12-everythingapplepro.jpg"  alt="" ></div>
+        <div class="col2"> <img src="https://www.gizmochina.com/wp-content/uploads/2020/05/Apple-iPhone-12-Models-2020.jpg "  alt=""></div>
+        <div class="col3"> <img src="https://image.cnbcfm.com/api/v1/image/106742492-1602612498041Screen-Shot-2020-10-13-at-2-06-59-PM-png?v=1602615274&w=678&h=381 "  alt=""></div>
+
+    </div>
+</body>
+</html>
+
+
 
 
 
